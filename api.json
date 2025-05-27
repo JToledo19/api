@@ -12,7 +12,7 @@
       "price": "1,500",
      "description": "Las Notas de Salida son menta, manzana acaramelada, limón (lima ácida) y mandarina; las Notas de Corazón son ambroxan, geranio y esclarea; las Notas de Fondo son vainilla, cuero, sándalo, cedro, naranja amarga y pachulí.",
       "rating": "3",
-       "thumbnail": "",
+       "thumbnail": "https://raw.githubusercontent.com/JToledo19/api/refs/heads/main/2o.png",
     },
    {
       "title": "Sauvage",
