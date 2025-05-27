@@ -19,7 +19,7 @@
       "price": "3,000",
      "description": "Sauvage es una partitura abierta. Su composición es tan compleja que puede agregar perspectivas originales elaborándolas con matices sutiles. ",
       "rating": "5",
-       "thumbnail": "",
+       "thumbnail": "https://raw.githubusercontent.com/JToledo19/api/refs/heads/main/3o.png",
     },
   ]
 }
