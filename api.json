@@ -5,7 +5,7 @@
       "price": "2,500",
      "description": "Las notas de salida son incienso de olíbano (franquincienso) y mandarina; las notas de corazón son árbol de la higuera y raíz de lirio; las notas de fondo son cedro y cuero",
       "rating": "5",
-       "thumbnail": "",
+       "thumbnail": "https://raw.githubusercontent.com/JToledo19/api/refs/heads/main/1o.png",
     },
    {
       "title": "Versace",
